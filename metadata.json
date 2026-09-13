@@ -1,0 +1,6 @@
+{
+  "name": "Smart Patient Queue Management System",
+  "description": "An academic prototype designed to reduce uncertainty during hospital waiting by providing digital queue visibility, approximate waiting-time estimation, and turn notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
